@@ -17,3 +17,13 @@
 .button.dark:hover {
     background: var(--color-blue-600);
 }
+
+
+
+
+
+@media (width >= 75em) {
+    .button {
+        padding: 16px 32px;
+    }
+}
