@@ -1,19 +1,23 @@
 :root {
-
 }
 
-*, *::before, *::after {
-    box-sizing: border-box;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 body {
-    margin: 0;
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  margin: 0;
 }
 
-h1, h2, h3 {
-    margin: 0;
+h1,
+h2,
+h3 {
+  margin: 0;
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
